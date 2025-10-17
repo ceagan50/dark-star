@@ -691,6 +691,7 @@ backdrop-filter: blur(20px);
              color:white;
              height: fit-content;
              background-color: #0314275d;
+            border-radius:20px;
         }
 
         .footer-column h3 {
